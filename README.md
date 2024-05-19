@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Shiblu Das</h1>
 <h3 align="">a final year Computer Science Engineering student with a passion for competitive programming. I'm constantly expanding my skillset, currently delving into the exciting worlds of Machine Learning, Deep Learning, and Image Processing. Beyond coding, I'm a Professional Badminton player, proving that a well-rounded mind needs a healthy dose of competition both on and off the court! I'm always eager to learn, collaborate, and tackle new challenges. Feel free to reach out!</h3>
-<img align="right" alt="coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Ficonscout.com%2Flottie-animation%2Fsoftware-engineer-launching-code-6369144&psig=AOvVaw3F5_C93QrJGbagNu5k0qj3&ust=1716220481281000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCKixitOJmoYDFQAAAAAdAAAAABAU">
+<img align="right" alt="coding" width="200" src="https://github.com/Shiblu31/EDA/blob/main/code.gif">
 
 
 - 🌱 I’m currently learning **Machine Learning, Deep Learning, NLP and Image Processing**
