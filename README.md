@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shiblu Das</h1>
-<h3 align="center">a final year Computer Science Engineering student with a passion for competitive programming. I'm constantly expanding my skillset, currently delving into the exciting worlds of Machine Learning, Deep Learning, and Image Processing. Beyond coding, I'm a Professional Badminton player, proving that a well-rounded mind needs a healthy dose of competition both on and off the court! I'm always eager to learn, collaborate, and tackle new challenges. Feel free to reach out!</h3>
+<h3 align="">a final year Computer Science Engineering student with a passion for competitive programming. I'm constantly expanding my skillset, currently delving into the exciting worlds of Machine Learning, Deep Learning, and Image Processing. Beyond coding, I'm a Professional Badminton player, proving that a well-rounded mind needs a healthy dose of competition both on and off the court! I'm always eager to learn, collaborate, and tackle new challenges. Feel free to reach out!</h3>
 
 
 - 🌱 I’m currently learning **Machine Learning, Deep Learning, NLP and Image Processing**
